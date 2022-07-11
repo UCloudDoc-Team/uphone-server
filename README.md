@@ -54,5 +54,5 @@ Web SDK
   * [接口说明](/uphone/web-sdk.md#接口说明)
  
  ### 其他
-  * [API 文档](https://cms-docs.ucloudadmin.com/api/uphone-api/README)
-  * [API SDK](https://cms-docs.ucloudadmin.com/tools)
+  * [API 文档](https://docs.ucloud.cn/api/uphone-api/README)
+  * [API SDK](https://docs.ucloud.cn/tools)
